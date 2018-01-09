@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>hiragana_keys.txt</file>
+        <file>icons/book_spelling.png</file>
+        <file>icons/cut.png</file>
+        <file>icons/diskette.png</file>
+        <file>icons/document_empty.png</file>
+        <file>icons/door_out.png</file>
+        <file>icons/file_extension_txt.png</file>
+        <file>icons/file_save_as.png</file>
+        <file>icons/font.png</file>
+        <file>icons/page_white_copy.png</file>
+        <file>icons/save_close.png</file>
+        <file>icons/setting_tools.png</file>
+        <file>icons/text_area.png</file>
+        <file>icons/undo.png</file>
+        <file>icons/folder_page_white.png</file>
+        <file>icons/flag_finland.png</file>
+        <file>icons/flag_japan.png</file>
+        <file>icons/paste_plain.png</file>
+        <file>icons/redo.png</file>
+        <file>icons/jpad.png</file>
+        <file>icons/reading_to_kanji.png</file>
+        <file>icons/printer.png</file>
+        <file>katakana_keys.txt</file>
+    </qresource>
+</RCC>
